@@ -1,0 +1,28 @@
+_repo: The-romance-of-the-Canadian-Pacific-Railway_69588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacBeth, R. G. (Roderick George)
+    alias: MacBeth, Roderick George
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '25189'
+    url: http://www.gutenberg.org/2009/agents/25189
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69588'
+language: en
+pgterms:marc905: 20221218161519macbeth
+pgterms:marc906: '1924'
+pgterms:marc907: CA
+production_note: Al Haines, Jen Haines & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'Canada: The Ryerson Press,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The romance of the Canadian Pacific Railway
+url: http://www.gutenberg.org/ebooks/69588
