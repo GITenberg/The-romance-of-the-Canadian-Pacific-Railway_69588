@@ -1,5 +1,8 @@
 _repo: The-romance-of-the-Canadian-Pacific-Railway_69588
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69588-h/images/cover.jpg
 creator:
   author:
     agent_name: MacBeth, R. G. (Roderick George)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '25189'
     url: http://www.gutenberg.org/2009/agents/25189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69588#The-romance-of-the-Canadian-Pacific-Railway
 gutenberg_issued: '2022-12-19'
 identifiers:
   gutenberg: '69588'
